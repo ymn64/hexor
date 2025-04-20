@@ -1,4 +1,4 @@
-module github.com/devkvlt/hexer
+module github.com/ymn64/hexer
 
 go 1.21.0
 
